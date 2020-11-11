@@ -17,7 +17,6 @@ Practice of [Course](https://www.udemy.com/course/artificial-intelligence-reinfo
 
 
 ## CartPole
-
     - Approx SemiGrad SARSA Control
     - SARSA - QTable + Bins
     - Q Learning - QTable + Bins
